@@ -36,7 +36,7 @@ To start my program, use the following command:
 
 ## Jak uruchomić
 
-**1. Zainstaluj [Leo][https://www.aleo.org](https://developer.aleo.org/leo/installation/)**
+**1. Zainstaluj [Leo](https://developer.aleo.org/leo/installation/)**
 **2. Download the file from github**
 
 To start my program, use the following command:
