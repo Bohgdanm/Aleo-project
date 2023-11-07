@@ -21,6 +21,7 @@ Możesz wykonać następujące działania:
 ## How to Start
 
 **1. Install [Leo](https://developer.aleo.org/leo/installation/)**
+
 **2. Download the file from github**
 
 To start my program, use the following command:
