@@ -3,20 +3,20 @@
 Hi, my name is Bohdan, and I've created a calculator using the programming language Aleo (Leo).
 
 **Here's what you can do with it:**
-- Adding
-- Subtracting
-- Multiplying
-- Dividing
-- Exponentiating
+- Adding "+"
+- Subtracting "-"
+- Multiplying "*"
+- Dividing "/"
+- Exponentiating "n*n"
 
 Cześć, nazywam się Bohdan i stworzyłem kalkulator, wykorzystując język programowania Aleo (Leo).
 
 **Możesz wykonać następujące działania:**
-- Dodawanie
-- Odejmowanie
-- Mnożenie
-- Dzielenie
-- Potęgowanie
+- Dodawanie "+"
+- Odejmowanie "-"
+- Mnożenie "*"
+- Dzielenie "/"
+- Potęgowanie "n*n"
 
 ## How to Start
 
