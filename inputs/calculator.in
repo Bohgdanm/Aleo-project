@@ -1,0 +1,4 @@
+[main]
+public operation: u8 = 0u8;
+public num1: field = 3field;
+public num2: field = 4field;
