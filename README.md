@@ -2,7 +2,7 @@
 
 Hi, my name is Bohdan, and I've created a calculator using the programming language Aleo (Leo).
 
-Here's what you can do with it:
+**Here's what you can do with it:**
 - Adding
 - Subtracting
 - Multiplying
@@ -11,7 +11,7 @@ Here's what you can do with it:
 
 Cześć, nazywam się Bohdan i stworzyłem kalkulator, wykorzystując język programowania Aleo (Leo).
 
-Możesz wykonać następujące działania:
+**Możesz wykonać następujące działania:**
 - Dodawanie
 - Odejmowanie
 - Mnożenie
@@ -50,6 +50,10 @@ To start my program, use the following command:
  - ```2u8``` for multiplying
  - ```3u8``` for dividing
  - ```4u8``` for exponentiating
+
+**Thanks**
+
+**Dzięki**
 
 
 
