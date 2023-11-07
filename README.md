@@ -1,20 +1,54 @@
-# Aleo-project
-Hi my name is Bohdan, and I create a calculator useing programing language Aleo(Leo)
-You can do:
-plus
-minus
-multiply
-divide
-exponentiate
-Cześć, jestem Bohdan i stworzyłem kalkulator wykorzystując język programowanie Aleo(Leo)
-Tutaj możemy:
-dodawać
-udejmować
-mnorzyć
-dzielić
-potegować
-# How to start:
-Install Leo
-put ``` leo run main ```
+# Aleo Project
+
+Hi, my name is Bohdan, and I've created a calculator using the programming language Aleo (Leo).
+
+Here's what you can do with it:
+- Adding
+- Subtracting
+- Multiplying
+- Dividing
+- Exponentiating
+
+Cześć, nazywam się Bohdan i stworzyłem kalkulator, wykorzystując język programowania Aleo (Leo).
+
+Możesz wykonać następujące działania:
+- Dodawanie
+- Odejmowanie
+- Mnożenie
+- Dzielenie
+- Potęgowanie
+
+## How to Start
+
+**1. Install [Leo]([https://www.aleo.org](https://developer.aleo.org/leo/installation/))**
+**2. Download the file from github**
+
+To start my program, use the following command:
+```leo run main``` start my program
+```leo run main 3field 4field 0u8``` where:
+ - 3field and 4field can be changed to any number
+ - ```0u8``` for adding
+ - ```1u8``` for subtracting
+ - ```2u8``` for multiplying
+ - ```3u8``` for dividing
+ - ```4u8``` for exponentiating
+
+
+## Jak uruchomić
+
+**1. Zainstaluj [Leo]([https://www.aleo.org](https://developer.aleo.org/leo/installation/))**
+**2. Download the file from github**
+
+To start my program, use the following command:
+```leo run main``` start my program
+```leo run main 3field 4field 0u8``` where:
+ - 3field and 4field can be changed to any number
+ - ```0u8``` for adding
+ - ```1u8``` for subtracting
+ - ```2u8``` for multiplying
+ - ```3u8``` for dividing
+ - ```4u8``` for exponentiating
+
+
 
 
