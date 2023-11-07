@@ -15,6 +15,6 @@ dzielić
 potegować
 # How to start:
 Install Leo
-put {leo run main}
+put [leo run main]
 
 
