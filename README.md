@@ -1,9 +1,13 @@
 # Aleo Project
 
 Hi, my name is Bohdan, and I've created a calculator using the programming language Aleo (Leo).
+
 My discord - bohgdanm
+
 My twitter - @AleoPolska
+
 My [Telegram](https://t.me/aleopopolsku)
+
 
 **Here's what you can do with it:**
 - Adding "+"
